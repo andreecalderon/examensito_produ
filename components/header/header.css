@@ -1,0 +1,13 @@
+.contenedor_menu {
+    border: 1px solid black;
+    height: 100px;
+    background-color: rgb(207, 171, 241);
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.contenedor-de-total{
+    
+}
